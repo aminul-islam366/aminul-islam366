@@ -63,7 +63,7 @@ I am a web developer from Bangladesh focused on building modern, scalable, and u
 
 ## 🚀 Featured Projects
 
-### 📚 Global Link Hub - Online Product Managment Platform
+### 🧑‍💻 Global Link Hub - Online Product Managment Platform
 
 Modern library system with secure authentication and smart Products management.
 
@@ -85,7 +85,7 @@ Track Companies assets and manage Properly.
 
 ---
 
-### 🛒 DigiTools - AI Product Web App
+### 🧑‍💻 TasksHub Marketplace Web Application
 
 Micro Tasks Application functionality.
 
